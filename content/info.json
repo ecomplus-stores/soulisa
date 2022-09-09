@@ -1,18 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Loja segura e certificada SSL"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcelamento sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Pedidos de R$220",
+    "title": "Frete grátis 🇧🇷"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Mimos em todos os pedidos"
   }
 }
