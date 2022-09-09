@@ -1,26 +1,26 @@
 {
   "domain": "soulisa.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#4c1a57",
   "theme": {
     "bootswatch": "cerulean",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/soulisa",
   "logo": "/img/uploads/logo.png",
   "name": "Soulisa ® ",
-  "short_name": "soulisa",
+  "short_name": "Soulisa ® ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/soulisa-3.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#6d4577",
+  "icon": "/img/uploads/soulisa-3.png",
   "store_id": 51312,
-  "description": "soulisa",
-  "large_icon": "/img/large-icon.png"
+  "description": "Sou a Soulisa® e a minha missão é de proporcionar a melhor experiência de fios lisos e raiz disciplinada para os seus cabelos!\nSeja molhado ou escovado, seu cabelo liso sempre! 💜",
+  "large_icon": "/img/uploads/soulisa-3.png"
 }
