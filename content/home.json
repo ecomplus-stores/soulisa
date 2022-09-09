@@ -1,26 +1,31 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Soulisa®",
+  "meta_description": "Especializada em cosméticos capilares para alisar e reduzir volume. Loja online 24h. Entrega Rápida e Segura em Todo Brasil. Clique e conheça AGORA!",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/3-1-.png",
+          "link": "",
+          "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "mobile_img": "/img/uploads/3-1-.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/1.png",
+          "alt": "",
+          "mobile_img": "/img/uploads/1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.png"
         }
       ]
     },
